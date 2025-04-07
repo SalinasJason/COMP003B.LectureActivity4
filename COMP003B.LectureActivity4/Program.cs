@@ -1,3 +1,9 @@
+/*
+ * Author: Jason Salinas
+ * Course: COMP-003B-L01
+ * Faculty: Jonathan Cruz
+ * Purpose: 4.3 Lecture Activity: Razor View Reusability
+ */
 namespace COMP003B.LectureActivity4
 {
     public class Program
